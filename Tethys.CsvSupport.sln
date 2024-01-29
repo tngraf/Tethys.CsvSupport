@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tethys.CsvSupport.Demo", "Tethys.CsvSupport.Demo\Tethys.CsvSupport.Demo.csproj", "{383391E4-21D3-4900-8A67-4FFC712978B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tethys.CsvSupport", "Tethys.CsvSupport\Tethys.CsvSupport.csproj", "{EDB1CC79-1333-4FBB-90B2-F47EED696C58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tethys.CsvSupport.Test", "Tethys.CsvSupport.Test\Tethys.CsvSupport.Test.csproj", "{C83AE261-A3F2-4548-8FBE-0EDE676E1486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{489E98A4-B87D-45BC-BB56-4A4A157C9665}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Dotnet.ruleset = Dotnet.ruleset
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{3B65F021-F844-4E28-A1CB-9BDDA62CF4E0}"
+	ProjectSection(SolutionItems) = preProject
+		ChangeLog.md = ChangeLog.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383391E4-21D3-4900-8A67-4FFC712978B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383391E4-21D3-4900-8A67-4FFC712978B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383391E4-21D3-4900-8A67-4FFC712978B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383391E4-21D3-4900-8A67-4FFC712978B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB1CC79-1333-4FBB-90B2-F47EED696C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB1CC79-1333-4FBB-90B2-F47EED696C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB1CC79-1333-4FBB-90B2-F47EED696C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB1CC79-1333-4FBB-90B2-F47EED696C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83AE261-A3F2-4548-8FBE-0EDE676E1486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83AE261-A3F2-4548-8FBE-0EDE676E1486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83AE261-A3F2-4548-8FBE-0EDE676E1486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83AE261-A3F2-4548-8FBE-0EDE676E1486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26E7764-262F-443E-B569-17F8D6C756A9}
+	EndGlobalSection
+EndGlobal
