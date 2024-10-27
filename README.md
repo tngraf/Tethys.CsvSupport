@@ -50,3 +50,7 @@ dotnet run --project .\Tethys.CsvSupport.Demo\Tethys.CsvSupport.Demo.csproj
 ## License
 
 Tethys.CsvSupport is licensed under the Apache License, Version 2.0.
+
+## SBOM
+
+For an up-to-date CycloneDX SBOM, please have a look at the [SBOM](https://github.com/fossology/FOSSology.REST.dotnet/tree/master/SBOM) folder.
