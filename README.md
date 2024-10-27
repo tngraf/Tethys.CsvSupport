@@ -19,8 +19,7 @@ The following packages are available on NuGet:
 ## How to use Tethys.CsvSupport
 
 The SPDX license information is not part of the libraries, you have to
-download it from [SPDX License List](https://github.com/spdx/license-list-XML) 
-and place it in a local folder.
+download it from [SPDX License List](https://github.com/spdx/license-list-XML) and place it in a local folder.
 
 ## Build
 
@@ -53,4 +52,4 @@ Tethys.CsvSupport is licensed under the Apache License, Version 2.0.
 
 ## SBOM
 
-For an up-to-date CycloneDX SBOM, please have a look at the [SBOM](https://github.com/fossology/FOSSology.REST.dotnet/tree/master/SBOM) folder.
+For an up-to-date CycloneDX SBOM, please have a look at the [SBOM](https://github.com/tngraf/Tethys.CsvSupport/tree/master/SBOM) folder.
